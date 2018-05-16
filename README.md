@@ -18,8 +18,7 @@ github:
 ## link
 please go to [coffee store](http://www.baidu.com) to get more information.
 ## fig
-![]
-(http://img.pconline.com.cn/images/upload/upc/tx/itbbs/1009/28/c1/5345810_1285667436002_1024x1024.jpg)
+![](http://img.pconline.com.cn/images/upload/upc/tx/itbbs/1009/28/c1/5345810_1285667436002_1024x1024.jpg)
 ## code
 `hello,world!`
 ```
